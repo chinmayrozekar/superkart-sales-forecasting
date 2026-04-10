@@ -66,8 +66,8 @@ python app.py
 Python · Pandas · NumPy · Scikit-learn · XGBoost · joblib · Flask · HTML/JS · Docker · Jupyter Notebook
 
 ## Code
-- Main notebook: [`Project_7_ChinmayRozekar_SuperKart_Model_Deployment_Notebook.ipynb`](Project_7_ChinmayRozekar_SuperKart_Model_Deployment_Notebook.ipynb)
-- Minimal version: [`Low_Code_SuperKart_Model_Deployment_Notebook.ipynb`](Low_Code_SuperKart_Model_Deployment_Notebook.ipynb)
+- Main notebook: [`SuperKart_Model_Deployment.ipynb`](SuperKart_Model_Deployment.ipynb)
+- Minimal version: [`SuperKart_Model_Deployment_LowCode.ipynb`](SuperKart_Model_Deployment_LowCode.ipynb)
 - API: [`backend_files/app.py`](backend_files/app.py)
 - Frontend: [`frontend_files/`](frontend_files/)
 
